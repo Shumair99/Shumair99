@@ -2,4 +2,4 @@
 
 <p >A fullstack dev and compsci graduate focused on building and deploying production-ready software. Currently looking for work.</p>
 
-Check out my website to learn more about me @ [umairdot.dev](https://umairdot.dev)
+Check out my website to learn more about me @ [umairahmed.co.uk](https://umairahmed.co.uk)
